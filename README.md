@@ -1,5 +1,6 @@
 # Case Study - Wealthfront
-![Wealthfront](./Images/)
+![Wealthfront](./Images/wealthfront.png)
+
 
 ---
 
