@@ -1,5 +1,5 @@
 # Case Study - Wealthfront
-![Wealthfront](./Images/wealthfront.png)
+![Wealthfront](./Images/wealthfront.png)(source - [Investopedia](https://www.investopedia.com/wealthfront-review-4587933))
 
 
 ---
@@ -33,6 +33,9 @@ Currently, Wealthfront is a privately held company that has had 5 rounds of fund
 ---
 
 ## Business Activities
+![Wealthfront2](./Images/wealthfront2.png)(source - [Wealthfront](https://www.wealthfront.com/investing))
+
+
 
 ### What is the problem that Wealthfront solves?
 
@@ -81,8 +84,15 @@ It also uses the modern potfolio theory to build the portfolios it recommends to
 
 *Modern Portfolio Theory* is a methodology that aims to identify a portfolio with the highest expected return for a given level of risk. This is achieved through diversification. Thus, most robo-advisor portfolios are a basket of ETF's. (14)
 
-
 ---
+
+## Landscape
+![wealthfront3](./Images/wealthfront3.png)(source - [moneysmylife](https://www.moneysmylife.com/best-robo-advisors/))
+
+
+
+
+
 ## References
 
 1 Investopedia - About Robo-Advisors ---
