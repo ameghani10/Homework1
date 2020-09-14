@@ -89,7 +89,18 @@ It also uses the modern potfolio theory to build the portfolios it recommends to
 ## Landscape
 ![wealthfront3](./Images/wealthfront3.png)(source - [moneysmylife](https://www.moneysmylife.com/best-robo-advisors/))
 
+Wealthfront is one of the many (such as Betterment, Charles Schaub, Vanguard, see above pic) platforms in the Robo-Advising space. As such, many have begun to differentiate themselves by offering niche products. Wealthfront had branced out into the Personal Finance space offering cash accounts, debit card, and bill pay services. Others have branched out to focus on women, providing socially responsible investing options, real estate investing, halal investing and hybrid models.
 
+**Notes**:
+- *Socially Responsible Investing* is a  new way of investing in assets that are in line with an individual or groups moral code. Investors look at a company's revenue sources and business practices in addition to the normal metrics of investing. For example, if one cares for the environment, one will have wind and solar companies instead of oil and gas companies. (15)
+
+- *Halal Investing* is having a portfolio that complies with Islamic law. These will not have any company that deries most of its profits from interest or loans. Also excluded are companies that focus on gambling, arms and tobacco. (16)
+
+- *Hybrid Models* are one where clients have the tools for self investing, but also have access to human advisors on a periodic basis. (17)
+
+---
+
+## Results
 
 
 
@@ -136,3 +147,12 @@ https://stackshare.io/wealthfront/wealthfront
 
 14 Investopedia - Modern Portfolio Theory ---
 https://www.investopedia.com/terms/m/modernportfoliotheory.asp
+
+15 Nerdwallet - Socially Responsible Investing ---
+https://www.nerdwallet.com/article/investing/socially-responsible-investing
+
+16 Wealthsimple - Halal Investing ---
+https://www.wealthsimple.com/en-us/feature/halal-investing/
+
+17 Accenture - Hybrid Models ---
+https://www.accenture.com/_acnmedia/Accenture/Conversion-Assets/DotCom/Documents/Global/PDF/Consulting/Accenture-New-Face-of-Wealth-Management-Hybrid-Advice.pdf
