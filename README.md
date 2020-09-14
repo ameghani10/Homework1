@@ -59,7 +59,7 @@ There are a whole host of things that make Wealthfront stand out (7):
 |Path            |Intuitive financial planning tool for long term goals
 |Cash Account    |Interest bearing account that is not part of the investment portfolio and is FDIC insured.
 
-Wealthfront also offers zero commission fees for the first $5000 in assets and then 0.25% of assets invested. All other tools are free to use.
+Wealthfront also offers zero advisory fees for the first $5000 in assets and then 0.25% of assets invested. All other tools are free to use.
 
 **Notes**:
 - *Exchange Traded Fund (ETF)* is a collection of stocks or bonds in a single fund. So an ETF of S&P 500 (VOO) consists of one fund that includes stocks of companies listed on the S&P 500 index (like Apple, Amazon, Visa)(=instant diversification) (9)
