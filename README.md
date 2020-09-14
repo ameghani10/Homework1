@@ -101,6 +101,17 @@ Wealthfront is one of the many (such as Betterment, Charles Schaub, Vanguard, se
 ---
 
 ## Results
+### Impact on Industry
+When Robo-Advisors burst on the scene, the immediate impact that they has was lowering the barries of entry into investing and wealth management. With their low fee structure and low to zero minimums to open accounts, they attracted many investors who were either just starting or priced out at the traditional platforms. (1) 
+
+The other impact was that they made accessing your portfolio simple. All it takes is one click and you have the option to see what is in your portfolio, invest more, or sell your positions. (1)
+
+And last but not least, Robo-Advisors made passive investing sexy. Picking stocks or trying to beat the market has consistantly delivered poor results. Robo-Advisors strip most customization options and put all your investment into a few select ETF's with the goal to match the index and deliver consistent results. (1) 
+
+**Notes**:
+- Robo-Advisors are taken collecctively here because at the base level most are the same using mostly the same ETF's and investment strategies as each other. The only seperators are the additional products they offer.
+
+- Passive investing has seen inflows of $163 billion while Actively managed funds have experienced $204 billion in outflows at the end of 2019. (18)
 
 
 
@@ -156,3 +167,6 @@ https://www.wealthsimple.com/en-us/feature/halal-investing/
 
 17 Accenture - Hybrid Models ---
 https://www.accenture.com/_acnmedia/Accenture/Conversion-Assets/DotCom/Documents/Global/PDF/Consulting/Accenture-New-Face-of-Wealth-Management-Hybrid-Advice.pdf
+
+18 Forbes - Passive Investing inflows ---
+https://www.forbes.com/sites/greatspeculations/2020/06/01/the-hidden-dangers-of-passive-investing/#4c61a7684d96
