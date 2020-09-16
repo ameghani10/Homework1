@@ -1,5 +1,9 @@
 # Case Study - Wealthfront
 
+Asif Meghani
+
+Sept 16, 2020
+
 ![Wealthfront](./Images/wealthfront.png)(source - [Investopedia](https://www.investopedia.com/wealthfront-review-4587933))
 
 ---
