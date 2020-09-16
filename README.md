@@ -143,6 +143,14 @@ CAC for the industry as a whole is about $300 to $1000 per customer according to
 
 ## Recommendations
 
+Wealthfront is already on the forefront of innovation, offering many products that its rivals lack, but it also has oppertunities for additional growth.
+One recommendation is that they add a premium service that includes access to human advisors to make them more appealing to investors who want that connection. Betterment and many others already offer this service as most switch to a Hybrid model.
+
+Second rid of the out of network ATM fees for their debit card. No one likes to pay these fees and currently the Green Dot ATMs are limited to third party non-bank machines that are ususally located in business like Walgreens. Fee reimbursement will make their cash accounts more attractive if clients are able to use traditional bank ATMs as they are considered to be more secure and conveniently located. Betterment already does this and makes Wealthfront cash account unattractive.
+
+Third have a few more customization options for the portfolio. Currently, after taking the risk assesment clients are presented with a premade portfolio. Have some options there so that if a client does not want a class of ETFs (ie Natural resources, real estate) they can change the asset allocation in these ETF's to zero or some other number.
+
+---
 
 ## References
 
